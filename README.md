@@ -1,1 +1,1 @@
-# MSCPracticalJournals
+# Embadded and IOT

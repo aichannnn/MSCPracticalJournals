@@ -1,1 +1,1 @@
-# MSCPracticalJournals
+# Web Mining
